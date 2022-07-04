@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1aF8c7E348DF4E8aa99c5de761E085Fd44E6C3B7",
+  "SCAN_LINK": "https://etherscan.io/token/0x1af8c7e348df4e8aa99c5de761e085fd44e6c3b7",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BlockedHeads",
+  "SYMBOL": "BH",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/blockedheads-v2",
+  "SHOW_BACKGROUND": true
+}
